@@ -1,0 +1,9 @@
+
+{
+  "name": "Luci - Your AI Companion",
+  "description": "An interactive AI companion featuring chat and voice call modes, designed by % SDF >.. | S4DAF. Uses Gemini API for natural conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
